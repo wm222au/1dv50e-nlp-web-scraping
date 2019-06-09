@@ -1,0 +1,18 @@
+LIST = ["https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=B+C&Location=London&Street=",
+        "https://demos.creative-tim.com/material-dashboard-pro-react/#/admin/dashboard",
+        "https://www.imdb.com/title/tt0944947/?ref_=rw_urv",
+        "https://itnext.io/implementing-json-web-tokens-passport-js-in-a-javascript-application-with-react-b86b1f313436",
+        "https://stackoverflow.com/questions/38552003/how-to-decode-jwt-token-in-javascript",
+        "https://medium.com/@xiaolishen/develop-in-docker-a-node-backend-and-a-react-front-end-talking-to-each-other-5c522156f634",
+        "https://visitbirmingham.com/",
+        "http://www.welcometosheffield.co.uk/contact-us",
+        "https://www.visitengland.com/plan-your-visit/tourist-information-centres",
+        "https://www.visitbritain.org/tourist-information",
+        "https://www.amsterdam.info/tips/touristoffice/",
+        "http://www.malagaturismo.com/en/tourist-resources/detail/municipal-tourist-information-office---head-office/17",
+        "https://www.budapest.com/travel/tourist_information.en.html",
+        "https://www.visitliverpool.com/plan-your-visit/visitor-centres",
+        "https://visitsouthampton.co.uk/your-visit",
+        "https://www.seeitdoitsunderland.co.uk/visitor-information-service",
+        "https://www.visitmanchester.com/visitor-information/manchester-visitor-information-centre-p23991"
+        ]
